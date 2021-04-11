@@ -1,8 +1,8 @@
 💻 iOS Application Developer 🌅: Living in India 🇮🇳:
 
-<img align="right" width="400" height="400" src="https://github.com/SGarcia710/SGarcia710/blob/main/profile-image.png?raw=true">
+<img align="right" width="400" height="400" src="https://github.com/VickyPrajapati24/VickyPrajapati24/blob/main/profile-image.png?raw=true">
 
-<img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=SGarcia710.SGarcia710" /> 
+<img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=VickyPrajapati24.VickyPrajapati24" /> 
 
 # Hi there, I'm Vicky
 
