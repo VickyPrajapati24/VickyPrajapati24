@@ -1,28 +1,26 @@
-:computer: _Frontend Developer at [Overactive](https://overactive.com/)_ ☀️ Living in Colmbia :colombia:
+💻 iOS Application Developer 🌅: Living in India 🇮🇳:
 
 <img align="right" width="400" height="400" src="https://github.com/SGarcia710/SGarcia710/blob/main/profile-image.png?raw=true">
 
 <img  align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=SGarcia710.SGarcia710" /> 
 
-# Hi there, I'm Sebastián
+# Hi there, I'm Vicky
 
-I’m currently working on web and mobile development with technologies like JavaScript, React, Nextjs, Gatsby, React Native etc.
+I’m currently working on native mobile application development for iOS.
 
 
 ## About me 
 
-🎮 Gaming | ✈️ Travel | 📚 Learning
+🎸 Music | 📚 Learning
 
-- :earth_americas: I'm from Cali - Colombia
+- 🌏: I'm from Surat, Gujarat, India.
 - :iphone: Apple Development Enthusiast
-- 📚 I’m currently learning everything about Svelte and SwiftUI.
+- 📚 I’m currently working on swift programming language.
 
 ## Contact me :mailbox_with_no_mail:
 
-[![Twitter Badge](https://img.shields.io/badge/-@sebg96-black?style=flat-square&logo=twitter&link=https://twitter.com/sebg96)](https://twitter.com/sebg96)
-[![Linkedin Badge](https://img.shields.io/badge/-Sebastián_García-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/sebastian-garcia-ospina/)](https://www.linkedin.com/in/sebastian-garcia-ospina/) 
-[![Reddit URL](https://img.shields.io/badge/-ImLotus-black?style=flat-square&logo=reddit&link=https://www.linkedin.com/in/sebastian-garcia-ospina/)](https://www.reddit.com/user/ImLotus)
-[![Outlook](https://img.shields.io/badge/-sgarcia710@outlook.com-black?style=flat-square&logo=Microsoft-Outlook)](mailto:sgarcia710@outlook.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Vicky_Prajapati-black?style=flat-square&logo=Linkedin&link=https://www.linkedin.com/in/vicky-prajapati-8b2b9b11a/)](https://www.linkedin.com/in/vicky-prajapati-8b2b9b11a/) 
+[![Gmail Badge](https://img.shields.io/badge/-vickyprajapati24@gmail.com-black?style=flat-square&logo=Gmail)](mailto:vickyprajapati24@gmail.com)
 
 
 ### My Tech Stack
