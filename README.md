@@ -29,9 +29,6 @@ I’m currently working on native mobile application development for iOS.
 
 ![Swift](https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift)
 
-#### Technologies
-
-
 #### Databases
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
 ![CoreData](https://img.shields.io/badge/-CoreData-black?style=flat-square&logo=sqlite)
