@@ -1,4 +1,4 @@
-💻 iOS Application Developer 🌅: Living in India 🇮🇳:
+💻 iOS/Flutter Application Developer 🌅: Living in India 🇮🇳:
 
 <img align="right" width="400" height="400" src="https://github.com/VickyPrajapati24/VickyPrajapati24/blob/main/profile-image.png?raw=true">
 
@@ -6,16 +6,16 @@
 
 # Hi there, I'm Vicky
 
-I’m currently working on native mobile application development for iOS.
+I’m currently working on mobile application development for iOS and flutter for hybrid apps.
 
 
 ## About me 
 
 🎸 Music | 📚 Learning
 
-- 🌏: I'm from Surat, Gujarat, India.
-- :iphone: Apple Development Enthusiast
-- 📚 I’m currently working on swift programming language.
+- 🌏: I'm from India.
+- :iphone: Apple/Flutter Development Enthusiast
+- 📚 I’m currently working on swift/Dart programming language.
 
 ## Contact me :mailbox_with_no_mail:
 
