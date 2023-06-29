@@ -28,6 +28,7 @@ I’m currently working on mobile application development for iOS and flutter fo
 #### Languages
 
 ![Swift](https://img.shields.io/badge/Swift-black?style=flat-square&logo=Swift)
+![Flutter](https://img.shields.io/badge/Flutter-black?style=flat-square&logo=Flutter)
 
 #### Databases
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
